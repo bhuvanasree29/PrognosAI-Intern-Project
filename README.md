@@ -1,1 +1,0 @@
-# PrognosAI-Intern-Project
